@@ -1,0 +1,23 @@
+{
+  "name": "mongoscrapehw",
+  "version": "1.0.0",
+  "description": "news article scrape",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronaldj2008/MongoScrapeHW.git"
+  },
+  "keywords": [
+    "mongo",
+    "scrape"
+  ],
+  "author": "ron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronaldj2008/MongoScrapeHW/issues"
+  },
+  "homepage": "https://github.com/ronaldj2008/MongoScrapeHW#readme"
+}
